@@ -1,49 +1,12 @@
 # pokemon-team-generator
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// just kidding, all this can get lost because there's a better API that does all this stuff already!
-
 https://www.npmjs.com/package/pokemon
 
 https://www.npmjs.com/package/pokemon-base-stats
 
 
 
-//
+
 
 project for my own time:
 https://pokemondb.net/move/all
